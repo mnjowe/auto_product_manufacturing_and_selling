@@ -1,0 +1,41 @@
+.form-control {
+    border:0;
+    padding: 7px;
+    border-bottom: solid 1px #ccc;
+}
+.form-select{
+  width: 100% !important;
+  border-bottom: solid 1px #b0b2ba !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+
+.footer {
+  position: fixed !important;
+  left: 18% !important;
+  bottom: 0 !important;
+  width: 100% !important;
+}
+
+.inner-sidebar{
+  min-height:10vh !important
+}
+.tiny-font{
+  font-size: 13px;
+}
+/* #add_unit_of_measure{
+  display: none;
+  width: 100%;
+} */
+.quote_spacing{
+  padding-left:50%;
+}
+
+.table_items {
+  text-align: left !important;
+  margin-left: 20px;
+}
+.delivery-background{
+  background-color: #eaebee;
+}
